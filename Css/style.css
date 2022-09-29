@@ -129,7 +129,7 @@ header label {
 /* End Header */
 /* Start Hero */
 .hero {
-  background: url(/images/hero.jpg);
+  background: url(../images/hero.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
